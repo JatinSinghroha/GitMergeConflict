@@ -1,5 +1,9 @@
 <resources>
+    <string name="string_from_strings_xml_3">String3 asdasdFrom Strings.xml</string>
+    <string name="string_from_strings_xml_4">String2 From Strings.xml</string>
     <string name="app_name">GitMergeConflict</string>
-    <string name="string_from_strings_xml">String From Strings.xml</string>
+    <string name="string_from_strings_xml">String sasssa1231From Strings.xml</string>
     <string name="string_from_strings_xml_2">String2 From Strings.xml</string>
+    <string name="string_from_strings_xml_7">String7 From Strings.xml</string>
+
 </resources>
