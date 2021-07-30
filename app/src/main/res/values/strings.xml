@@ -1,5 +1,7 @@
 <resources>
+    <string name="string_from">String2 asdjlksaj From Stsadjsajrings.xml</string>
     <string name="app_name">GitMergeConflict</string>
-    <string name="string_from_strings_xml">String From Strings.xml</string>
-    <string name="string_from_strings_xml_2">String2 From Strings.xml</string>
+    <string name="string_from_strings_xml">ABCFrom Strings</string>
+    <string name="string_from_strings_xml_2">String2 asdjlksaj From Strings.xml</string>
+    <string name="string_from_stringss_xml_2">String2 asdjlksaj From Strings.xml</string>
 </resources>
